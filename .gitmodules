@@ -1,0 +1,3 @@
+[submodule "smart-factory"]
+	path = smart-factory
+	url = ./smart-factory
