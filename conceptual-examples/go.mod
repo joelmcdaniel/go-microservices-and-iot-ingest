@@ -1,4 +1,4 @@
-module github.com/joelmcdaniel/go-microservices-and-iot-injest/conceptual-examples
+module github.com/joelmcdaniel/go-microservices-and-iot-ingest/conceptual-examples
 
 go 1.26.1
 
